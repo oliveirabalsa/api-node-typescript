@@ -1,0 +1,22 @@
+{
+   "name": "type-api",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/node": "^8.0.29",
+      "nodemon": "^2.0.4",
+      "ts-node": "3.3.0",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "typeorm": "0.2.25",
+      "reflect-metadata": "^0.1.10",
+      "pg": "^7.3.0",
+      "express": "^4.15.4",
+      "body-parser": "^1.18.1"
+   },
+   "scripts": {
+      "dev": "nodemon src/index.ts",
+      "start": "ts-node src/index.ts"
+   }
+}
