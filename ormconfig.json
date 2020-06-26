@@ -4,7 +4,7 @@
    "port": 5432,
    "username": "postgres",
    "password": "postgres",
-   "database": "yourDataBase", // change the name to your database
+   "database": "yourDataBase",
    "synchronize": true,
    "logging": false,
    "entities": [
