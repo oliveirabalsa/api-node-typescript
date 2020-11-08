@@ -1,4 +1,4 @@
-## Api node with TypeORM and Postgress
+## Api node with TypeORM and PostgreSQL
 
 ## How to use:
 
